@@ -782,8 +782,8 @@ a:focus {
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #aa9166;
-    border: 2px solid #aa9166;
+    color: #b0ebff;
+    border: 2px solid #faf9f6;
     border-radius: 0;
     background: #121518;
     transition: .3s;
@@ -791,7 +791,7 @@ a:focus {
 
 .feature .feature-item:hover a.btn {
     color: #121518;
-    background: #aa9166;
+    background: #9de2ff;
 }
 
 .feature .feature-img {

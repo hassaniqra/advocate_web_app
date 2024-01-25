@@ -3,7 +3,7 @@
 /*******************************/
 body {
     color: #666666;
-    background: #ffffff;
+    background: #f7f2f2;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
@@ -48,7 +48,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #aa9166;
+    background: #91e0fd;
     color: #121518;
     width: 44px;
     height: 44px;
@@ -62,7 +62,7 @@ a:focus {
 }
 
 .back-to-top:hover {
-    color: #aa9166;
+    color: #f89d9d;
     background: #121518;
 }
 
@@ -154,7 +154,7 @@ a:focus {
 }
 
 .top-bar .social a:hover {
-    color: #aa9166;
+    color: #a4edff;
     background: #ffffff;
 }
 
@@ -208,7 +208,7 @@ a:focus {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #aa9166;
+    color: #a3e2ff;
     transition: none;
 }
 
@@ -221,12 +221,12 @@ a:focus {
 
 .nav-bar .btn {
     color: #ffffff;
-    border: 2px solid #aa9166;
+    border: 2px solid #96efff;
     border-radius: 0;
 }
 
 .nav-bar .btn:hover {
-    background: #aa9166;
+    background: #8cd7f7;
 }
 
 @media (min-width: 992px) {
@@ -341,16 +341,16 @@ a:focus {
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #aa9166;
+    color: #9ae1ff;
     background: #121518;
-    border: 2px solid #aa9166;
+    border: 2px solid #fafaf9;
     border-radius: 0;
     transition: .3s;
 }
 
 .carousel .carousel-caption .btn:hover {
     color: #121518;
-    background: #aa9166;
+    background: #84e0f1;
 }
 
 @media (max-width: 767.98px) {
@@ -564,7 +564,7 @@ a:focus {
 }
 
 .feature-top .feature-item i {
-    color: #aa9166;
+    color: #9cedff;
     font-size: 35px;
     margin-bottom: 10px;
 }
@@ -620,8 +620,8 @@ a:focus {
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #aa9166;
-    border: 2px solid #aa9166;
+    color: #a5eaff;
+    border: 2px solid #f4f3f0;
     border-radius: 0;
     background: #121518;
     transition: .3s;
@@ -629,7 +629,7 @@ a:focus {
 
 .about .about-text a.btn:hover {
     color: #121518;
-    background: #aa9166;
+    background: #a4dcff;
 }
 
 @media (max-width: 767.98px) {
@@ -652,7 +652,7 @@ a:focus {
     position: relative;
     width: 100%;
     text-align: center;
-    background: #121518;
+    background: #f3bda8;
     margin-bottom: 30px;
 }
 
@@ -662,7 +662,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #000000;
+    background: #afdbf3;
 }
 
 .service .service-icon i {
@@ -671,8 +671,8 @@ a:focus {
     padding: 20px 0;
     text-align: center;
     font-size: 60px;
-    color: #aa9166;
-    background: #121518;
+    color: #d7ae67;
+    background: #0e151b;
     transition: .5s;
 }
 
@@ -685,12 +685,12 @@ a:focus {
     padding: 25px 15px 15px 15px;
     font-size: 30px;
     font-weight: 600;
-    color: #aa9166;
+    color: #181510;
 }
 
 .service .service-item p {
     margin: 0;
-    color: #999999;
+    color: #050303;
     padding: 0 25px 25px 25px;
     font-size: 18px;
 }
@@ -703,8 +703,8 @@ a:focus {
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #aa9166;
-    border: 2px solid #aa9166;
+    color: #92b6e0;
+    border: 2px solid #1a1918;
     border-radius: 0;
     background: #121518;
     transition: .3s;
@@ -712,7 +712,7 @@ a:focus {
 
 .service .service-item:hover a.btn {
     color: #121518;
-    background: #aa9166;
+    background: #bceaf8;
 }
 
 /*******************************/
@@ -734,7 +734,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #121518;
+    background: #b4d5f7;
 }
 
 .feature .feature-icon i {
@@ -798,7 +798,7 @@ a:focus {
     position: relative;
     height: 100%;
     padding: 10px;
-    background: #121518;
+    background: #98bde3;
 }
 
 .feature .feature-img img {
@@ -1082,7 +1082,7 @@ a:focus {
     max-width: 900px;
     margin: 45px auto -140px auto;
     padding: 30px 15px;
-    background: #aa9166;
+    background: #a4dceb;
     z-index: 1;
 }
 
@@ -1116,16 +1116,16 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #aa9166;
+    color: #f2eaeaee;
     background: #121518;
     border-radius: 0;
-    border: 2px solid #aa9166;
+    border: 2px solid #f8f2f0;
     transition: .3s;
 }
 
 .newsletter .btn:hover {
     color: #121518;
-    background: #aa9166;
+    background: #fc9f9f;
 }
 
 
@@ -1155,7 +1155,7 @@ a:focus {
     margin-bottom: 30px;
     font-size: 25px;
     font-weight: 600;
-    color: #aa9166;
+    color: #90d8f8;
 }
 
 .footer .footer-link a {
@@ -1174,7 +1174,7 @@ a:focus {
 }
 
 .footer .footer-link a:hover {
-    color: #aa9166;
+    color: #aee0f7;
     letter-spacing: 1px;
 }
 
@@ -1194,7 +1194,7 @@ a:focus {
 .footer .footer-social a i {
     margin-right: 15px;
     font-size: 18px;
-    color: #aa9166;
+    color: #a8f0ff;
 }
 
 .footer .footer-social a:last-child i {
@@ -1208,7 +1208,7 @@ a:focus {
 .footer .footer-menu .f-menu {
     position: relative;
     padding: 15px 0;
-    background: #000000;
+    background: #050404;
     font-size: 0;
     text-align: center;
 }
@@ -1222,7 +1222,7 @@ a:focus {
 }
 
 .footer .footer-menu .f-menu a:hover {
-    color: #aa9166;
+    color: #b4eaff;
 }
 
 .footer .footer-menu .f-menu a:last-child {
@@ -1246,7 +1246,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #aa9166;
+    color: #adedfe;
     font-weight: 500;
     letter-spacing: 1px;
 }
